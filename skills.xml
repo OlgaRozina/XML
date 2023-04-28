@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <skills>
-<skills_1>GIT</skills_1>
-[1;5l[1;5l<skills_2>SQL<skills_2[D[D[D[D[C[C/skills_2.
-[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[>
-<skills_3>Postman</skills_3>
-<skills_4>Fiddler</skill_4>[A[D[D[D[D[D[C[C[[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[[B[[A[A[[C[C[C[C[C[C[C[C[D[D[D[D[D[D[[[C[C[C[C[C[[B[B[[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C_1>GIT</skill_1>
-<skill_2>SQL</slill_2>
-<skill_3>Postman</s[A[A[B[D[D[k[B[B[C[C[Ckill_3>
-<skill_4>Fiddler<skill_4>
-<skill_5>Android_Studio<skill_5>[D[D[D[D[D[D[D[D/skill_5[A[A[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D/skill_4[B[C[C[C[C[C[C[C>
-<skill_6>Charles</skill_6>
-<skill_7>HTTP</skill_7>
-<skill_8>JSON</skill_8>
-<skill_9>XML</skill_9>
+     <skill_1>GIT</skill_1>
+     <skills_2>SQL<skills_2>
+     <skill_3>Postman</skill_3>
+     <skill_4>Fiddler</skill_4>
+     <skill>GIT</skill_1>
+     <skill_2>SQL</slill_2>
+     <skill_3>Postman</skill_3>
+     <skill_4>Fiddler<skill_4>
+     <skill_5>Android_Studio</skill_5>
+     <skill_6>Charles</skill_6>
+     <skill_7>HTTP</skill_7>
+     <skill_8>JSON</skill_8>
+     <skill_9>XML</skill_9>
+</skills>
