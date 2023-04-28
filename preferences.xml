@@ -1,8 +1,7 @@
-<preferences>[D[D[D[D[D[D[D[D[D[D[D[D[D
-[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-[C[C[C[C[C[C[C[C[C[C[C[C<?xml version="1.0" encoding="UTF-8"?>
-<preferences>
-<eat>pizza</eat>
-<film>Interstellar<film>
-<series>Force_majeure</[A[D[D[D[D/film>[B[D[Dseries>
-<time_of_year>summer</time_of_year>
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences>
+     <eat>pizza</eat>
+     <film>Interstellar</film>
+     <series>Force_majeure</series>
+     <time_of_year>summer</time_of_year>
+</preferences>
