@@ -1,5 +1,5 @@
 # This is a part of GIT homework - XML
-## 1. Create an external repository called XML.: 
+## 1. Create an external repository called XML: 
 ```
 GitHub > New repository > Create repository 
 ```
