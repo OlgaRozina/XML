@@ -4,7 +4,7 @@
 GitHub > New repository > Create repository 
 ```
 ***
-## 2.Clone the XML repository to a local machine: 
+## 2. Clone the XML repository to a local machine: 
 ```
 $ git clone HTTPS
 ```
@@ -69,7 +69,7 @@ $ cat > preferences.xml
 </preferences>
 ```
 ***
-## 11.Create a file "skills.xml" and add information about the skills that will be studied in the course in xml format:
+## 11. Create a file "skills.xml" and add information about the skills that will be studied in the course in xml format:
 ```
 $ cat > skills.xml
 <?xml version="1.0" encoding="UTF-8"?>
@@ -86,14 +86,14 @@ $ cat > skills.xml
 </skills>
 ```
 ***
-## 11.Send two files at once to the external repository:
+## 12. Send two files at once to the external repository:
 ```
 $ git add .
 $ git commit preferences.xml skills.xml -m "First commit"
 $ git push
 ```
 ***
-## 12. On the web interface, modify the file "bug_report.xml" and add a bug report in xml format:
+## 13. On the web interface, modify the file "bug_report.xml" and add a bug report in xml format:
 ```
 <?xml version="1.0" encoding="UTF-8"?>
 <bug_report_1>
@@ -123,12 +123,12 @@ $ git push
 </bug_repost_1> 
 ```
 ***
-## 13. Press "Commit changes" and save changes on the web interface:
+## 14. Press "Commit changes" and save changes on the web interface:
 ```
 >Commit changes
 ```
 ***
-## 14. Synchronize the external and the local XML repository:
+## 15. Synchronize the external and the local XML repository:
 ```
 $ git pull
 ```
