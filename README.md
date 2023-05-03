@@ -4,7 +4,7 @@
 GitHub > New repository > Create repository 
 ```
 ***
-## 2.Clone the XML repository to a local machine": 
+## 2.Clone the XML repository to a local machine: 
 ```
 $ git clone HTTPS
 ```
@@ -15,22 +15,22 @@ $ cd XML
 $ touch new.xml
 ```
 ***
-## 4. Add changes to indexed files section
+## 4. Add changes to indexed files section:
 ```
 $ git add .
 ```
 ***
-## 5. Commit the file
+## 5. Commit the file:
 ```
 $ git commit -m "First commit"
 ```
 ***
-## 6. Push the file to the external GitHub repository
+## 6. Push the file to the external GitHub repository:
 ```
 $ git push
 ```
 ***
-## 7. Edit the content of the file “new.xml” - write information about yourself. Everything is written in xml format
+## 7. Edit the content of the file “new.xml” - write information about yourself. Everything is written in xml format:
 ```
 $ vim new.xml
 press i
@@ -49,15 +49,15 @@ press i
 press Esc > :wq
 ```
 ***
-## 8. Push changes the an external repository
+## 8. Push changes the an external repository:
 ```
 $ git add .
 $ git commit -m "XML"
 $ git push
 ```
 ***
-## 9. Create a file "preferences.xml"
-## 10. In the file "preferences.xml", add information about your preferences in xml format.
+## 9. Create a file "preferences.xml:
+## 10. In the file "preferences.xml", add information about your preferences in xml format:
 ```
 $ cat > preferences.xml
 <?xml version="1.0" encoding="UTF-8"?>
@@ -69,7 +69,7 @@ $ cat > preferences.xml
 </preferences>
 ```
 ***
-## 11.Create a file "skills.xml" and add information about the skills that will be studied in the course in xml format
+## 11.Create a file "skills.xml" and add information about the skills that will be studied in the course in xml format:
 ```
 $ cat > skills.xml
 <?xml version="1.0" encoding="UTF-8"?>
@@ -86,14 +86,14 @@ $ cat > skills.xml
 </skills>
 ```
 ***
-## 11.Send two files at once to the external repository
+## 11.Send two files at once to the external repository:
 ```
 $ git add .
 $ git commit preferences.xml skills.xml -m "First commit"
 $ git push
 ```
 ***
-## 12. On the web interface, modify the file "bug_report.xml" and add a bug report in xml format.
+## 12. On the web interface, modify the file "bug_report.xml" and add a bug report in xml format:
 ```
 <?xml version="1.0" encoding="UTF-8"?>
 <bug_report_1>
@@ -123,12 +123,12 @@ $ git push
 </bug_repost_1> 
 ```
 ***
-## 13. Press "Commit changes" and save changes on the web interface
+## 13. Press "Commit changes" and save changes on the web interface:
 ```
 >Commit changes
 ```
 ***
-## 14. Synchronize the external and the local XML repository
+## 14. Synchronize the external and the local XML repository:
 ```
 $ git pull
 ```
